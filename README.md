@@ -1,4 +1,4 @@
-# vue-music-next
+# mijia-music2
 
 ## Project setup
 ```
